@@ -1,51 +1,116 @@
-## Developer Portfolio Landing Page Template
+# 🚀 Developer Portfolio — GitHub Pages Template
 
-### Introduction
+> A clean, minimal, and fast portfolio template built with Jekyll and GitHub Pages.
+> Deploy your personal site in under 10 minutes — no backend required.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+![Portfolio Demo](images/demo.gif)
 
-<img src="images/demo.gif?raw=true"/>
+---
 
-### Installation
+## ✨ Features
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+- ⚡ Instant deployment via GitHub Pages
+- 🎨 Minimal, responsive design
+- ✍️ Content managed entirely in Markdown
+- 🔧 No local setup required — edit directly on GitHub
+- 📁 Easy to customize for developers, data scientists, and researchers
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 📦 Quick Start
 
-### Markdown
+### 1. Use this template
+Click the **"Use this template"** button at the top of this repository.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2. Enable GitHub Pages
+Go to `Settings → Pages` and set the source branch to `main` (or `gh-pages`).
 
-```markdown
-Syntax highlighted code block
+### 3. Edit your content
+Update the Markdown files directly on GitHub. Your site rebuilds automatically on every commit.
 
-# Header 1
-## Header 2
-### Header 3
+> 📖 Need a step-by-step walkthrough?  
+> Read the full tutorial on [Medium →](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## 🗂️ Project Structure
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+📁 your-portfolio/
+├── index.md          # Home page
+├── _config.yml       # Site settings (name, description, theme)
+├── images/           # Your images and GIFs
+└── pages/            # Additional sections (projects, about, etc.)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Roadmap
+## ✍️ Writing Content in Markdown
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
+All content is written in **GitHub Flavored Markdown**. Here's a quick reference:
 
-### References
+```markdown
+# Heading 1
+## Heading 2
+### Heading 3
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+**Bold**  _Italic_  `Inline code`
+
+- Bullet item
+- Another item
+
+1. Numbered item
+2. Another item
+
+[Link text](https://url.com)
+![Alt text](images/photo.png)
+
+\`\`\`python
+# Syntax highlighted code block
+def hello():
+    print("Hello, world!")
+\`\`\`
+```
+
+For the full syntax guide, see [GitHub Flavored Markdown Docs →](https://guides.github.com/features/mastering-markdown/)
+
+---
+
+## 🛣️ Roadmap
+
+Planned features and known issues are tracked in the [Issues tab →](https://github.com/evanca/quick-portfolio/issues)
+
+Have a suggestion? Feel free to open an issue or submit a pull request.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! To get started:
+
+1. Fork this repository
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m 'Add your feature'`
+4. Push and open a Pull Request
+
+---
+
+## 📄 License
+
+This project is open source under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Credits & References
+
+| Resource | Author | License |
+|----------|--------|---------|
+| Jekyll theme "Minimal" | [GitHub Pages Themes](https://github.com/pages-themes/minimal) | CC0 1.0 Universal |
+| Demo photo | [Pixabay](https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/) | Pixabay License |
+| Thumbnail graphic | [rawpixel.com via Freepik](https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm) | Standard Freepik License |
+
+---
+
+<p align="center">
+  Made with ❤️ using Jekyll & GitHub Pages
+</p>
