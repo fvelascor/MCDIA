@@ -3,8 +3,6 @@
 > A clean, minimal, and fast portfolio template built with Jekyll and GitHub Pages.
 > Deploy your personal site in under 10 minutes — no backend required.
 
-![Portfolio Demo](images/demo.gif)
-
 ---
 
 ## ✨ Features
