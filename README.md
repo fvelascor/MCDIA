@@ -15,6 +15,25 @@
 
 ---
 
+## 📚 Education & Training
+
+### Data Science & Python — [DEV.F](https://edu.devf.la/campus/home)
+
+Currently expanding my skills through DEV.F's Data Science and Python program, one of Latin America's leading tech education platforms.
+
+**Technologies & tools covered:**
+
+| Category | Technologies |
+|----------|-------------|
+| 🐍 Programming | Python |
+| 📊 Data Structures | Lists, Tuples, Dictionaries, Sets |
+| 🔁 Control Flow | Conditionals, `for` loops, `while` loops |
+| 🧩 Functions | Built-in functions, User-defined functions |
+| 🗄️ Data Management | CRUD operations |
+| 🛠️ Environment | Google Colaboratory, Jupyter Notebooks |
+
+---
+
 ## 📦 Quick Start
 
 ### 1. Use this template
@@ -112,4 +131,3 @@ This project is open source under the [MIT License](LICENSE).
 <p align="center">
   Made with ❤️ using Jekyll & GitHub Pages
 </p>
-
